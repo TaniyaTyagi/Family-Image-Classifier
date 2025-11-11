@@ -20,10 +20,9 @@ The app interface is built using: `Streamlit`
 
 ## 🚀 **How to Run the Project**
 
-### 1️⃣ Clone the Repository
+### 1️ Clone the Repository
 ```bash
 git clone <your-repository-link>
 cd <your-project-folder>
 
-### 2. Install Required Libraries
 
