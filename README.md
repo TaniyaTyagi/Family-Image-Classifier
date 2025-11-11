@@ -1,31 +1,30 @@
-# 🎉 Family Image Classifier (Streamlit App)
+# 🎉 Family Image Classifier
 
-This project is a **Machine Learning-based Image Classification App** that identifies which family member is present in an uploaded image. The model is trained using family member photos, and the app provides a simple and interactive interface using **Streamlit**.
+This project is a **Family Member Image Classification App** built using **Machine Learning** and **Streamlit**.  
+The model predicts which family member is present in the uploaded image.
 
----
+## 🧠 Project Overview
 
-## 👨‍👩‍👧 **Family Members Detected**
+The model is trained on a dataset of family member images and classifies an uploaded image into one of the following categories:
+
 | Label | Person Name  |
 |------|--------------|
-| 0    | Chote Papa   |
+| 0    | Chote papa   |
 | 1    | Lakshay      |
 | 2    | Mummy        |
-| 3    | Pita Ji      |
+| 3    | Pita ji      |
 | 4    | Taniya       |
 
----
+The model file: `family_model.pkl`  
+The app interface is built using: `Streamlit`
 
-## 🧠 **Tech Stack**
-- Python
-- Streamlit
-- NumPy
-- Pillow
-- Scikit-learn (for model training)
-- Pickle (for saving the trained model)
+ 🚀 How to Run the Application
 
----
+ 1. Clone or Download the Repository
+```bash
+git clone <repository_link>
+cd <project_folder>
 
-## 📦 **Project Structure**
 
 2. Install Required Libraries
    Make sure Python is installed, then run:
