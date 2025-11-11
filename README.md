@@ -18,11 +18,12 @@ The model is trained on a dataset of family member images and classifies an uplo
 The model file: `family_model.pkl`  
 The app interface is built using: `Streamlit`
 
- 🚀 How to Run the Application
+## 🚀 **How to Run the Project**
 
- 1. Clone or Download the Repository
+### 1️⃣ Clone the Repository
 ```bash
-git clone <repository_link>
-cd <project_folder>
+git clone <your-repository-link>
+cd <your-project-folder>
 
+### 2. Install Required Libraries
 
