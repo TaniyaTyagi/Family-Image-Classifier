@@ -45,47 +45,31 @@ project/
 │-- myfile.py
 │-- README.md
 ```
-🖥️ User Interface Flow
+🖥️ User Interface Flow:
+  * Upload a family member image (.jpg, .jpeg, .png)
+  * The model processes the image
+  * The predicted name is displayed 🎯
 
-Upload a family member image (.jpg, .jpeg, .png)
-
-The model processes the image
-
-The predicted name is displayed 🎯
-
-📝 Code Reference
-
-The prediction logic is implemented in myfile.py:
-It loads the trained model and maps predictions to family names. 
+📝 Code Reference:
+  The prediction logic is implemented in myfile.py:
+  It loads the trained model and maps predictions to family names. 
 
 myfile
 
 🌟 Example Output
+```
 ✅ Predicted Member Name: Mummy
-
+```
 💡 Future Enhancements
+  * Improve model accuracy using a larger dataset
+  * Add face detection for better cropping
+  *  Deploy app online using Streamlit Cloud / Heroku
 
-Improve model accuracy using a larger dataset
-
-Add face detection for better cropping
-
-Deploy app online using Streamlit Cloud / Heroku
-
-🤝 Contributing
-
-Feel free to submit improvements or suggestions.
+🤝 Contributing:
+  Feel free to submit improvements or suggestions.
 
 📜 License
 
 This project is for personal and educational use.
 
 
----
-
-If you'd like, I can also:
-
-✅ Create a **GitHub repository**  
-✅ Generate a **PowerPoint Presentation**  
-✅ Create a **Demo Video Script**  
-
-Just tell me 👍
