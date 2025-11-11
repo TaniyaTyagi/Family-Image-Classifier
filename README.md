@@ -22,8 +22,8 @@ The app interface is built using: `Streamlit`
 
 ### 1️ Clone the Repository
 ```bash
-git clone <your-repository-link>
-cd <your-project-folder>
+git clone https://github.com/TaniyaTyagi/Family-Image-Classifier.git
+cd model-6
 ```
 2. Install Required Libraries
 
