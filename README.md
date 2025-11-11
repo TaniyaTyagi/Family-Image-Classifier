@@ -40,10 +40,11 @@ streamlit run myfile.py
 
 📂 File Structure
 project/
+```
 │-- family_model.pkl
 │-- myfile.py
 │-- README.md
-
+```
 🖥️ User Interface Flow
 
 Upload a family member image (.jpg, .jpeg, .png)
