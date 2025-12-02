@@ -48,7 +48,7 @@ project/
  User Interface Flow:
   * Upload a family member image (.jpg, .jpeg, .png)
   * The model processes the image
-  * The predicted name is displayed 🎯
+  * The predicted name is displayed 
 
  Code Reference:
   The prediction logic is implemented in myfile.py:
