@@ -49,23 +49,23 @@ project/
 ```
 
 
-### User Interface Flow:
+## User Interface Flow:
   * Upload a family member image (.jpg, .jpeg, .png)
   * The model processes the image
   * The predicted name is displayed
 
 
-### Example Output
+## Example Output
 ```
 Predicted Member Name: Mummy
 ```
 
-### Future Enhancements
+## Future Enhancements
   * Improve model accuracy using a larger dataset
   * Add face detection for better cropping
   *  Deploy app online using Streamlit Cloud / Heroku
 
-### Contributing:
+## Contributing:
   Feel free to submit improvements or suggestions.
 
 
