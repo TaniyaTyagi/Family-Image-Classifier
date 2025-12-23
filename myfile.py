@@ -30,4 +30,5 @@ if uploaded_file is not None:
     st.success(f"✅ Predicted Member Name: {family[pred]}")
     
     st.error(f"")
+
  
