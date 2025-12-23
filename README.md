@@ -3,6 +3,8 @@
 This project is a **Family Member Image Classification App** built using **Machine Learning** and **Streamlit**.  
 The model predicts which family member is present in the uploaded image.
 
+---
+
 ##  Project Overview
 
 The model is trained on a dataset of family member images and classifies an uploaded image into one of the following categories:
@@ -18,6 +20,7 @@ The model is trained on a dataset of family member images and classifies an uplo
 The model file: `family_model.pkl`  
 The app interface is built using: `Streamlit`
 
+---
 
 ##  **How to Run the Project**
 
@@ -39,6 +42,7 @@ Ensure the family_model.pkl is located in the same directory as myfile.py.
 ### 4. Run the Streamlit App
 streamlit run myfile.py
 
+---
 
 ## -> File Structure
 project/
@@ -48,6 +52,7 @@ project/
 │-- README.md
 ```
 
+---
 
 ## User Interface Flow:
   * Upload a family member image (.jpg, .jpeg, .png)
@@ -60,10 +65,14 @@ project/
 Predicted Member Name: Mummy
 ```
 
+---
+
 ## Future Enhancements
   * Improve model accuracy using a larger dataset
   * Add face detection for better cropping
   *  Deploy app online using Streamlit Cloud / Heroku
+
+---
 
 ## Contributing:
   Feel free to submit improvements or suggestions.
